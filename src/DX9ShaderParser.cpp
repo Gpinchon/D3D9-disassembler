@@ -2,10 +2,10 @@
 #include <DX9RegisterType.hpp>
 #include <DX9RegisterUsage.hpp>
 #include <DX9Shader.hpp>
+#include <DX9ShaderParser.hpp>
 #include <DX9ShaderType.hpp>
 #include <DX9Tokens.hpp>
 
-#include "DX9ShaderParser.hpp"
 #include <cassert>
 #include <functional>
 #include <unordered_map>
